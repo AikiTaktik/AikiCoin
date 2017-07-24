@@ -1,0 +1,2 @@
+# AikiCoin
+Just another repository
